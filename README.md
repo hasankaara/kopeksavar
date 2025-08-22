@@ -24,7 +24,11 @@ Bu uygulama, köpeklerin hoşlanmadığı yüksek frekanslı sesler üreterek ku
 
 ---
 
-## Yasal Uyarı
-- **Bu uygulama sadece eğitimsel amaçla geliştirilmiştir.**  
-- **Çalışacağı garanti edilmez, köpeği daha da kızdırabilir.**  
-- **Gerçek kullanım için uygunluğu garanti edilmez.**  
+- ## Kullanım Koşulları
+
+- Bu proje **sadece eğitimsel amaçlarla** geliştirilmiştir.  
+- Gerçek kullanım için uygunluğu **garanti edilmez**.  
+- Programın çalışacağı garanti edilmez, bazı durumlarda beklenmedik sonuçlar doğurabilir.  
+- **Normal kullanıcılar** bu projeyi istedikleri gibi indirip, deneyebilir ve kullanabilir.  
+- **Şirketler ve ticari amaç güden kuruluşlar**, bu projeyi kullanmadan önce geliştiriciden izin almak zorundadır.  
+
