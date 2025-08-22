@@ -9,8 +9,8 @@ Bu uygulama, köpeklerin hoşlanmadığı yüksek frekanslı sesler üreterek ku
 - Hafif ve hızlı çalışır.
 
 ## Kurulum
-- APK dosyasını indirip yüklemeniz yeterlidir.  
-- Özel bir ayara gerek yoktur.  
+- APK dosyasını buradan [Releases](https://github.com/kullanici/KopekSavar/releases)
+indirip kurmanız yeterlidir.
 
 ## Kullanım
 - Uygulamayı açın.  
